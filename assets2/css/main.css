@@ -1,0 +1,136 @@
+body{
+	background-image: url('../imgs/stars.gif');
+	background-repeat: repeat-x;
+	position:fixed;
+	padding:0;
+	margin:0;
+	background-size: 50%;
+}
+
+.homecontainer{
+	position:fixed;
+    padding:0;
+    margin:0;
+
+    top:0;
+    left:0;
+
+    width: 100%;
+    height: 100%;
+	background-color:;
+}
+
+.menu{
+	color:#bbb5b5;
+	font-size:320%;
+	position:relative;
+	top:15%;
+	left:15%;
+	float:left;
+	font-family:arial;
+	font-style:normal;
+}
+
+.title{
+	color:white;
+	font-size:1000%;
+	position:relative;
+	text-align: center;
+	font-family:arial;
+	top:5%;
+	font-style:italic;
+}
+
+a:link {
+  text-decoration: none;
+  color:white;
+}
+
+a:visited {
+  text-decoration: none;
+  color:#bbb5b5;
+}
+
+a:hover {
+  text-decoration: none;
+  color:white;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.textbox {
+  height: 60%;
+  width: 40%;
+  background-color:;
+  color:white;
+  float:right;
+  margin-right:14%;
+  margin-top:5%;
+  border:2px 
+  solid #ccc;
+  font-size:40px;
+  padding-top:20px;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+.paragraphtitle{
+  height:;
+  width:;
+  background-color:;
+  color:white;
+  float:center;
+  text-align:center;
+  margin:auto;
+  margin-right:;
+  border:0px 
+  solid #ccc;
+  font:16px Georgia, Garamond, Serif;
+  overflow-x:hidden;
+  overflow-y:auto; 
+  font-size:40px;
+  overflow-wrap:break-word;
+}
+
+.text {
+  height: 87%;
+  width: 99%;
+  background-color:;
+  color:white;
+  float:center;
+  margin:auto;
+  margin-right:;
+  border:0px 
+  solid #ccc;
+  font:16px Georgia, Garamond, Serif;
+  overflow-x:hidden;
+  overflow-y:auto; 
+  font-size:30px;
+  overflow-wrap:break-word;
+}
+
+.subhead{
+  height: 9%;
+  width: ;
+  background-color:;
+  color:white;
+  float:center;
+  margin:auto;
+  margin-right:;
+  padding-top:4%;
+  border:0px 
+  solid #ccc;
+  font:16px Georgia, Garamond, Serif;
+  font-size:30px;
+  overflow-wrap:break-word;
+  font-style:italic;
+}
+
+.astronaut{
+  background-image: url(/../imgs/astronaut.jpg);
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 200px;
+}
